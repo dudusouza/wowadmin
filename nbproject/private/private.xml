@@ -2,23 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/views/lister.tpl</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/widgets/deleteright.tpl</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/widgets/deletetop.tpl</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/views/Base.php</file>
-            <file>file:/C:/wamp/www/wow/app/protected/config/router.php</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/widgets/deleteleft.tpl</file>
-            <file>file:/C:/wamp/www/wow/app/protected/viewadmin/internal.tpl</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/widgets/update.tpl</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/views/Update.php</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/views/filter.tpl</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/Form.php</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/components/form/Text.php</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/views/Lister.php</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/views/Delete.php</file>
-            <file>file:/C:/wamp/www/wow/app/public/assets/admin/js/beyond.min.js</file>
-            <file>file:/C:/wamp/www/wow/wow/admin/_templates/widgets/insert.tpl</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
