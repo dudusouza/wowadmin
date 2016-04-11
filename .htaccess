@@ -1,0 +1,14 @@
+RewriteEngine on
+
+#impede que tenha acesso as rotas protegidas
+RewriteRule config.ini index.php [L]
+RewriteRule ^/?wow/(.*)$ index.php [L]
+RewriteRule ^/?protected/(.*)$ index.php [L]
+RewriteRule ^/?vendor/(.*)$ index.php [L]
+RewriteRule ^/?admin/(.*)$ index.php [L]
+
+#caso não for nenhuma rota protegia e o arquivo existir, permite abri-lo
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#caso não passe por nenhuma das rotas acima, é direcionado para index
+RewriteRule . index.php [L]
