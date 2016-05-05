@@ -85,5 +85,12 @@ abstract class Field {
     public function setPostVal($val) {
         $this->value = $val;
     }
-
+    
+    public function posPost(){
+        
+    }
+    
+    public function prePost(){
+        
+    }
 }

@@ -42,6 +42,7 @@ class Wow {
         $view = $pathObj->view;
         $viewm = $pathObj->viewmobile;
         define('WOW_ADMIN_PATH', \wow\Storange::getPathDir($admin));
+        define('WOW_ADMIN_TEMPLATES_PATH', WOW_ADMIN_PATH . 'templates' . DS);
         define('WOW_PROTECTED_PATH', \wow\Storange::getPathDir($protected));
         define('WOW_CONTROLLER_PATH', WOW_PROTECTED_PATH . $controllers . DS);
         define('WOW_MODELS_PATH', WOW_CONTROLLER_PATH . $model . DS);
